@@ -1,0 +1,16 @@
+{
+	"type": "code",
+	"modid": "darkerspawns",
+	"name": "Darker Spawns",
+	"version": "1.0.0",
+	
+	"description": "Hostiles spawn in darker environments only.",
+	"website": "https://youtu.be/dQw4w9WgXcQ",
+	"author": "Burktross",
+	
+	"side": "server",
+	"dependencies": {
+		"game": "1.14.10",
+		"survival": "1.14.10"
+	}
+}
