@@ -1,7 +1,7 @@
 [
     {
     "op": "replace",
-    "path": "server/spawnconditionsByType/*-corrupt-sawblade/runtime/maxLightLevel",
+    "path": "/server/spawnconditionsByType/*-corrupt-sawblade/runtime/maxLightLevel",
     "value": 0,
     "file": "entities/land/locust.json"
     }
